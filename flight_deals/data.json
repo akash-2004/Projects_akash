@@ -1,0 +1,194 @@
+{
+    "locations": [
+        {
+            "id": "new-delhi_in",
+            "active": true,
+            "name": "New Delhi",
+            "slug": "new-delhi-india",
+            "slug_en": "new-delhi-india",
+            "code": "DEL",
+            "alternative_names": [],
+            "rank": 35,
+            "global_rank_dst": 10,
+            "dst_popularity_score": 3256420.0,
+            "timezone": "Asia/Kolkata",
+            "population": 10927986,
+            "airports": 1,
+            "stations": 1,
+            "hotels": 1496,
+            "bus_stations": 0,
+            "subdivision": null,
+            "autonomous_territory": null,
+            "country": {
+                "id": "IN",
+                "name": "India",
+                "slug": "india",
+                "code": "IN"
+            },
+            "region": {
+                "id": "southern-asia",
+                "name": "Southern Asia",
+                "slug": "southern-asia"
+            },
+            "continent": {
+                "id": "asia",
+                "name": "Asia",
+                "slug": "asia",
+                "code": "AS"
+            },
+            "nearby_country": null,
+            "location": {
+                "lat": 28.613939,
+                "lon": 77.209021
+            },
+            "tags": [
+                {
+                    "tag": "adventure",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "sightseeing",
+                    "month_to": -1,
+                    "month_from": -1
+                }
+            ],
+            "alternative_departure_points": [
+                {
+                    "id": "DEL",
+                    "distance": 14.55,
+                    "duration": 1040.2
+                },
+                {
+                    "id": "AGR",
+                    "distance": 207.59,
+                    "duration": 9534.1
+                },
+                {
+                    "id": "DED",
+                    "distance": 241.89,
+                    "duration": 14330.6
+                },
+                {
+                    "id": "IXC",
+                    "distance": 248.7,
+                    "duration": 12259
+                },
+                {
+                    "id": "PGH",
+                    "distance": 253.53,
+                    "duration": 14101
+                },
+                {
+                    "id": "JAI",
+                    "distance": 275.41,
+                    "duration": 12833.4
+                }
+            ],
+            "providers": [
+                1280,
+                1282
+            ],
+            "car_rentals": [],
+            "type": "city"
+        }
+    ],
+    "meta": {
+        "locale": {
+            "code": "en-US",
+            "status": "OK"
+        }
+    },
+    "last_refresh": 1654165753,
+    "results_retrieved": 1,
+    "id": "new-delhi_in",
+    "active": true,
+    "name": "New Delhi",
+    "slug": "new-delhi-india",
+    "slug_en": "new-delhi-india",
+    "code": "DEL",
+    "alternative_names": [],
+    "rank": 35,
+    "global_rank_dst": 10,
+    "dst_popularity_score": 3256420.0,
+    "timezone": "Asia/Kolkata",
+    "population": 10927986,
+    "airports": 1,
+    "stations": 1,
+    "hotels": 1496,
+    "bus_stations": 0,
+    "subdivision": null,
+    "autonomous_territory": null,
+    "country": {
+        "id": "IN",
+        "name": "India",
+        "slug": "india",
+        "code": "IN"
+    },
+    "region": {
+        "id": "southern-asia",
+        "name": "Southern Asia",
+        "slug": "southern-asia"
+    },
+    "continent": {
+        "id": "asia",
+        "name": "Asia",
+        "slug": "asia",
+        "code": "AS"
+    },
+    "nearby_country": null,
+    "location": {
+        "lat": 28.613939,
+        "lon": 77.209021
+    },
+    "tags": [
+        {
+            "tag": "adventure",
+            "month_to": -1,
+            "month_from": -1
+        },
+        {
+            "tag": "sightseeing",
+            "month_to": -1,
+            "month_from": -1
+        }
+    ],
+    "alternative_departure_points": [
+        {
+            "id": "DEL",
+            "distance": 14.55,
+            "duration": 1040.2
+        },
+        {
+            "id": "AGR",
+            "distance": 207.59,
+            "duration": 9534.1
+        },
+        {
+            "id": "DED",
+            "distance": 241.89,
+            "duration": 14330.6
+        },
+        {
+            "id": "IXC",
+            "distance": 248.7,
+            "duration": 12259
+        },
+        {
+            "id": "PGH",
+            "distance": 253.53,
+            "duration": 14101
+        },
+        {
+            "id": "JAI",
+            "distance": 275.41,
+            "duration": 12833.4
+        }
+    ],
+    "providers": [
+        1280,
+        1282
+    ],
+    "car_rentals": [],
+    "type": "city"
+}

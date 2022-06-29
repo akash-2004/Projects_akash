@@ -1,0 +1,199 @@
+{
+  "search_id": "3d1c7628-7b53-6b9d-0583-a715e1fd88f9",
+  "time": 1,
+  "currency": "GBP",
+  "fx_rate": 0.85532,
+  "data": [
+    {
+      "id": "032d19ef4b400000dc8772c6_0|19ef168e4b400000b7f5e8df_0|168e07114b4100002f4b87fb_0",
+      "flyFrom": "STN",
+      "flyTo": "DEL",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "New Delhi",
+      "cityCodeTo": "DEL",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "IN",
+        "name": "India"
+      },
+      "type_flights": [
+        "deprecated"
+      ],
+      "nightsInDest": null,
+      "quality": 328.387513,
+      "distance": 6683.6,
+      "duration": {
+        "departure": 60300,
+        "return": 0,
+        "total": 60300
+      },
+      "price": 156,
+      "conversion": {
+        "EUR": 182.387878,
+        "GBP": 156
+      },
+      "fare": {
+        "adults": 156,
+        "children": 156,
+        "infants": 156
+      },
+      "bags_price": {
+        "1": 111.83
+      },
+      "baglimit": {
+        "hand_height": 35,
+        "hand_length": 55,
+        "hand_weight": 7,
+        "hand_width": 20,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 20,
+        "hold_width": 28
+      },
+      "availability": {
+        "seats": 1
+      },
+      "routes": [
+        [
+          "STN",
+          "DEL"
+        ]
+      ],
+      "airlines": [
+        "6E",
+        "W6",
+        "FR"
+      ],
+      "route": [
+        {
+          "id": "032d19ef4b400000dc8772c6_0",
+          "combination_id": "032d19ef4b400000dc8772c6",
+          "flyFrom": "STN",
+          "flyTo": "VIE",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Vienna",
+          "cityCodeTo": "VIE",
+          "airline": "FR",
+          "flight_no": 7349,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "fare_family": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "last_seen": "2022-06-03T06:42:29.000Z",
+          "refresh_timestamp": "2022-06-03T06:42:29.000Z",
+          "equipment": null,
+          "vehicle_type": "aircraft",
+          "local_arrival": "2022-09-29T11:40:00.000Z",
+          "utc_arrival": "2022-09-29T09:40:00.000Z",
+          "local_departure": "2022-09-29T08:30:00.000Z",
+          "utc_departure": "2022-09-29T07:30:00.000Z"
+        },
+        {
+          "id": "19ef168e4b400000b7f5e8df_0",
+          "combination_id": "19ef168e4b400000b7f5e8df",
+          "flyFrom": "VIE",
+          "flyTo": "AUH",
+          "cityFrom": "Vienna",
+          "cityCodeFrom": "VIE",
+          "cityTo": "Abu Dhabi",
+          "cityCodeTo": "AUH",
+          "airline": "W6",
+          "flight_no": 2981,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "RREG",
+          "fare_category": "M",
+          "fare_classes": "R",
+          "fare_family": "",
+          "return": 0,
+          "bags_recheck_required": true,
+          "vi_connection": true,
+          "guarantee": true,
+          "last_seen": "2022-06-03T06:42:31.000Z",
+          "refresh_timestamp": "2022-06-03T06:42:31.000Z",
+          "equipment": null,
+          "vehicle_type": "aircraft",
+          "local_arrival": "2022-09-29T21:45:00.000Z",
+          "utc_arrival": "2022-09-29T17:45:00.000Z",
+          "local_departure": "2022-09-29T14:10:00.000Z",
+          "utc_departure": "2022-09-29T12:10:00.000Z"
+        },
+        {
+          "id": "168e07114b4100002f4b87fb_0",
+          "combination_id": "168e07114b4100002f4b87fb",
+          "flyFrom": "AUH",
+          "flyTo": "DEL",
+          "cityFrom": "Abu Dhabi",
+          "cityCodeFrom": "AUH",
+          "cityTo": "New Delhi",
+          "cityCodeTo": "DEL",
+          "airline": "6E",
+          "flight_no": 1836,
+          "operating_carrier": "6E",
+          "operating_flight_no": "1836",
+          "fare_basis": "RL0INT",
+          "fare_category": "M",
+          "fare_classes": "R",
+          "fare_family": "",
+          "return": 0,
+          "bags_recheck_required": true,
+          "vi_connection": true,
+          "guarantee": true,
+          "last_seen": "2022-06-03T01:03:24.000Z",
+          "refresh_timestamp": "2022-06-03T01:03:24.000Z",
+          "equipment": null,
+          "vehicle_type": "aircraft",
+          "local_arrival": "2022-09-30T05:45:00.000Z",
+          "utc_arrival": "2022-09-30T00:15:00.000Z",
+          "local_departure": "2022-09-30T00:40:00.000Z",
+          "utc_departure": "2022-09-29T20:40:00.000Z"
+        }
+      ],
+      "booking_token": "D-F05yuPqnLQ3IRvIl1_KBufW4u4uBXM4nfq6BAdhvwHHIWzYeaOZoeDkwqhaqlZ8-gKeMAxEfBtej6UQ_1mDXFZSLJmr4TAZU_jZ--pvqVGMUqPYUmg8WWBmDD7rJWqvtzx4zcY0GBSCgpkco-ROxKAdaX5QmcJN0EgzWFaOxZD9sxL5ZsTmFlpYVqrgrnVNLE7d4XGARAEhDCcfdzZPXtU_SyemrRtcwsaz3SwxOOpfHz1nAbpxxSZX05P5mEiQJ3CpKB8WF1CumDE8hAc_QcVAFePNDCvooLVfOlSPi-uXD3xAWlUxKUoPiyww1bQRAWn3sJR1lMXSCAx4YDBP3nhoRxSACskDVpLF1pViKWB2TbpqlHz8zWNup-A-kNVzV868fFkeV9FcpBaooFP2QPSnCY9i1hoRrcLic_kX_EC-nGbyOo20xHbGQOcP62J7IfOLSD7gDK5dBoLPVbqUymmU45hUia_FBr3ks4_9EbbNfEan0bBw3WEJCSRqVwipr_OpaNangCs68QeFkrHdOZrrDIESH-6XG-sQqsVHEjdnQbu-XfyfbEYMdlDNFVGky0T_5b1x3rOx4ttlH5sixs4m9nLB1euqfiur6tJwZt8=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=ak7avions&currency=GBP&flightsId=032d19ef4b400000dc8772c6_0%7C19ef168e4b400000b7f5e8df_0%7C168e07114b4100002f4b87fb_0&from=STN&lang=en&passengers=1&to=DEL&booking_token=D-F05yuPqnLQ3IRvIl1_KBufW4u4uBXM4nfq6BAdhvwHHIWzYeaOZoeDkwqhaqlZ8-gKeMAxEfBtej6UQ_1mDXFZSLJmr4TAZU_jZ--pvqVGMUqPYUmg8WWBmDD7rJWqvtzx4zcY0GBSCgpkco-ROxKAdaX5QmcJN0EgzWFaOxZD9sxL5ZsTmFlpYVqrgrnVNLE7d4XGARAEhDCcfdzZPXtU_SyemrRtcwsaz3SwxOOpfHz1nAbpxxSZX05P5mEiQJ3CpKB8WF1CumDE8hAc_QcVAFePNDCvooLVfOlSPi-uXD3xAWlUxKUoPiyww1bQRAWn3sJR1lMXSCAx4YDBP3nhoRxSACskDVpLF1pViKWB2TbpqlHz8zWNup-A-kNVzV868fFkeV9FcpBaooFP2QPSnCY9i1hoRrcLic_kX_EC-nGbyOo20xHbGQOcP62J7IfOLSD7gDK5dBoLPVbqUymmU45hUia_FBr3ks4_9EbbNfEan0bBw3WEJCSRqVwipr_OpaNangCs68QeFkrHdOZrrDIESH-6XG-sQqsVHEjdnQbu-XfyfbEYMdlDNFVGky0T_5b1x3rOx4ttlH5sixs4m9nLB1euqfiur6tJwZt8=",
+      "facilitated_booking_available": false,
+      "pnr_count": 3,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": true,
+      "transfers": [],
+      "local_arrival": "2022-09-30T05:45:00.000Z",
+      "utc_arrival": "2022-09-30T00:15:00.000Z",
+      "local_departure": "2022-09-29T08:30:00.000Z",
+      "utc_departure": "2022-09-29T07:30:00.000Z"
+    }
+  ],
+  "_results": 1,
+  "search_params": {
+    "flyFrom_type": "city",
+    "to_type": "city",
+    "seats": {
+      "passengers": 1,
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    }
+  },
+  "all_airlines": [],
+  "all_stopover_airports": [],
+  "del": 0,
+  "currency_rate": 1.1691530655193378,
+  "connections": [],
+  "refresh": [],
+  "ref_tasks": [],
+  "sort_version": 0
+}
