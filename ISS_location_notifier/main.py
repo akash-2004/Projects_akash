@@ -4,11 +4,14 @@ import requests
 import json
 import datetime as dt
 from twilio.rest import Client
+import os
+from dotenv import load_dotenv
 
-MY_EMAIL = "akashk.projects@gmail.com"
-MY_PASSWORD = "akashlovesfootball"
-MY_LAT = 28.596316
-MY_LONG = 77.043927
+load_dotenv()
+MY_EMAIL=os.getenv('MY_EMAIL')
+MY_PASSWORD=os.getenv('MY_PASSWORD')
+MY_LAT=os.getenv('MY_LAT')
+MY_LONG=os.getenv('MY_LONG')
 
 # INTERNATIONAL SPACE STATION!
 
@@ -67,8 +70,8 @@ while True:
                             )
         connection.close()
 
-        account_sid = "ACbd68816dccbde2cdd3256211dcfa7722"
-        auth_token = "f1ff9ee78b82c3b5b57891be2344fd25"
+        account_sid=os.getenv('account_sid')
+        auth_token=os.getenv('auth_token')        
         client = Client(account_sid, auth_token)
 
         message = client.messages \
