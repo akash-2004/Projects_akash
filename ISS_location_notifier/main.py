@@ -77,8 +77,8 @@ while True:
         message = client.messages \
             .create(
             body="Look Up!\n\nThe International Space Station should be visible from your location around this time!",
-            from_='+18106443792',
-            to='+917011576727')
+            from_=os.getenv('from_'),
+            to=os.getenv('to'))
         break
     else:
         time.sleep(20)
